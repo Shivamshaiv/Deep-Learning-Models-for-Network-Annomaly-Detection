@@ -1,6 +1,6 @@
 # Deep-Learning-Models-for-Network-Annomaly-Detection
 
-The modular app consists for mainly three annomaly detection algorithms 
+The modular app consists for mainly three annomaly detection algorithms. The system supports models both in Tensorflow and Pytorch.
 
  - Annomaly DAE
  - DeepSphere
